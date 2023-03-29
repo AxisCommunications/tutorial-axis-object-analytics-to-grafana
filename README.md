@@ -24,7 +24,7 @@
 
 ## Overview
 
-This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard. Please note that you can replace or change some components for visualization and an instant overview based on your needs. For example, replace AXIS Object Analytics with other analytics or data sources that send data to Amazon Web Services (AWS). Replace AWS with another cloud vendor or replace the Grafana visualization dashboard with another data visualization platform.
+This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard. Please note that you can replace or change some components for visualization and an instant overview based on your needs. For example, replace AXIS Object Analytics with other Axis analytics application or data source that send data to Amazon Web Services (AWS). Replace AWS with another cloud vendor or replace the Grafana visualization dashboard with another data visualization platform.
 
 ![overview](assets/overview.jpg)\
 *©2023 Axis Communications AB. All rights reserved.*\
