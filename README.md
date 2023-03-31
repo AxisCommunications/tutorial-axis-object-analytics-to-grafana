@@ -98,7 +98,7 @@ Next, configure the camera's MQTT client:
 
 Here' an example of an **MQTT client** setup in an Axis camera.
 
-![axis device mqtt client settings](assets/axis-device-mqtt-client-settings.png)
+![axis device mqtt client settings](assets/axis-device-mqtt-client-settings.png)\
 *©2023 Axis Communications AB. All rights reserved.*
 
 ## Configure AXIS Object Analytics to send MQTT messages
@@ -115,7 +115,7 @@ Here' an example of an **MQTT client** setup in an Axis camera.
 
 7. Go to **System** > **MQTT** > **MQTT publication**.
 
-    ![axis device mqtt publication settings](assets/axis-device-mqtt-publication-settings.png)
+    ![axis device mqtt publication settings](assets/axis-device-mqtt-publication-settings.png)\
     *©2023 Axis Communications AB. All rights reserved.*
 
 8. Select **Use default condition prefix** to include the serial number in the MQTT topic, select **Include serial number** under **Payload**, **Include condition name** and make sure to unticked the **Include condition namespaces** in order to get a MQTT topic structure that can be handled by the AWS IoT Core rule, click **Save**.
