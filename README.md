@@ -24,7 +24,7 @@
 
 ## Overview
 
-This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard. 
+This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard.
 
 ![overview](assets/overview.jpg)\
 *©2023 Axis Communications AB. All rights reserved.*\
