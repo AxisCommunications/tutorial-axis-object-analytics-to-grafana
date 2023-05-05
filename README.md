@@ -24,7 +24,7 @@
 
 ## Overview
 
-This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard. Please note that you can replace or change some components for visualization and an instant overview based on your needs. For example, replace AXIS Object Analytics with other Axis analytics application or data source that send data to Amazon Web Services (AWS). Replace AWS with another cloud vendor or replace the Grafana visualization dashboard with another data visualization platform.
+This tutorial shows you how to visualize data produced by a Crossline counting scenario, in [AXIS Object Analytics](https://www.axis.com/products/axis-object-analytics), on a [Grafana®](https://grafana.com/) dashboard. 
 
 ![overview](assets/overview.jpg)\
 *©2023 Axis Communications AB. All rights reserved.*\
@@ -33,6 +33,8 @@ This tutorial shows you how to visualize data produced by a Crossline counting s
 It uses MQTT as a secure transport protocol from the camera to AWS. [AWS IoT Core](https://aws.amazon.com/iot-core/) (MQTT broker) receives the MQTT messages from the camera and forwards them to a time-series database ([Amazon Timestream](https://aws.amazon.com/timestream/)) for storage and further processing. A local or cloud instance of Grafana is connected to the Amazon Timestream database, which queries the data and displays it visually in graphs and tables.
 
 ![architecture](assets/architecture.png)
+
+> **Note** Some sections can be replaced or changed to get a solution that fits other use-cases. For example, replace AXIS Object Analytics with some other analytics or triggers that send metadata to the AWS cloud. Or replace the Grafana visualization dashboard with some other data visualization platform.
 
 ## Prerequisites
 
