@@ -1,6 +1,9 @@
 *©2023 Axis Communications AB. AXIS COMMUNICATIONS, AXIS, ARTPEC and VAPIX are registered trademarks of Axis AB in various jurisdictions. All other trademarks are the property of their respective owners.*
 
 <!-- omit from toc -->
+# This tutorial has been archived, and its content moved to [Axis Developer Documentation](https://developer.axis.com/analytics/how-to-guides/visualize-axis-object-analytics-data-using-grafana-dashboard)
+
+<!-- omit from toc -->
 # AXIS Object Analytics visualization using Grafana® dashboard
 
 <!-- omit from toc -->
